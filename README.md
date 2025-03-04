@@ -38,4 +38,5 @@ The frequency of bar coupon usage was heavily skewed towards three or fewer visi
 26.07% for drivers over 30 years old.
 
 - When comparing income levels, the acceptance rate for drivers making less than $50K was 29.04%, slightly higher than the 27.84% acceptance rate for drivers making over $50K.
-- 
+
+- Furthermore, 11.60% of drivers with incomes over $50K never accepted a Coffee House coupon.
